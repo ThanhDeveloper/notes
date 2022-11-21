@@ -20,4 +20,5 @@ GraphQL is a query language for APIs created by Facebook. GraphQL gives clients 
 
 ![image](https://user-images.githubusercontent.com/48196420/202989152-4d7b880b-6878-4c86-81a2-e56c4ad4a820.png)
 
-
+## Advantages of GraphQL over REST
+![image](https://user-images.githubusercontent.com/48196420/202992074-836e94e0-e1bd-4d58-b3da-feb804a666b2.png)
