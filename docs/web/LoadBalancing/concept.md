@@ -4,6 +4,12 @@
 # Elastic load balancer ELB (AWS)
 => is a managed load balancer manage by AWS.
 
+# Aws provided 4 kind of Load balances:
+- Classic lb
+- Application lb
+- Network lb
+- Gateway lb
+
 # Benefit of BL
 - Spread load across multiple downstream instances
 - Expose a single point of access to your application
