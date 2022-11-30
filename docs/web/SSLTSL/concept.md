@@ -1,1 +1,2 @@
-An SSL Certificate allows traffic between your clients and your load balancer to be encrypted in transit
+- An SSL Certificate allows traffic between your clients and your load balancer to be encrypted in transit
+- Have an expiration date and must be renewed
