@@ -17,3 +17,9 @@
 - enforce stickiness with cookie
 - Provide SSL termination
 - High available across zones
+
+# Stickiness
+Stickiness allows the load balancer to bind a user's session to a specific target. The stickiness type differs based on the type of cookie used. You can use a combination of stickiness types across your target groups, or even turn off stickiness. Stickiness cannot be turned on if cross-zone load balancing is turned off.
+
+![image](https://user-images.githubusercontent.com/48196420/204753540-2ceae42a-9230-458c-a476-9c88b88a7f2c.png)
+
