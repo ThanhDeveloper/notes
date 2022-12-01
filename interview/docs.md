@@ -129,3 +129,33 @@ Middleware is the piece of software in the request pipeline. It is between reque
 - Scrum event: sprint planing, review, daily meeting and retropective 
 
 - Scrum artifact: product backlog, sprint backlog, increment 
+
+
+OOP
+OOP has 4 properties including
+Encapsulation, inhenrit, polymorphism, abstraction
+I: Create a new class based on an existing class
+P: perform tasks in different ways (overloading, overriding)
+A: Hide deployment details, provide only feature information to users
+E: Ability to hide information from the outside
+
+improve skills to improve performance, make the application better and more complete
+
+- Single responsibility priciple (SRP)
+- Open/Closed principle (OCP)
+- Liskov substitution principe (LSP)
+- Interface segregation principle (ISP)
+- Dependency inversion principle (DIP)
+
+SOLID is an object-oriented design principle, consisting of 5 principles
+S: a class should hold only one responsibility. Code should be easy to read and understand. Easy maintain and scale. 
+O: open for extension but closed modify classs.
+L: Any instance of a parent class can be replaced by an instance of its child class without changing the correctness of the program. 
+I: Instead of using a large interface, we should separate into many small interfaces, with many specific purposes. The client should not depend on interfaces that it does not use. 
+D: 1. High-level modules should not depend on low-level modules. Both should depend on abstraction. 2. Abstraction should not depend on details, but vice versa. 
+
+#ORM
+ORM (Object Relational Mapping), is a programming technique/mechanism that maps databases to objects in object-oriented programming languages such as Java, C#
+
+
+
