@@ -70,7 +70,7 @@ Transient Lifetime: Adding a transient service means that each time the service 
 
 - CodeFirst: you can creating simple standalone application without versioning and using model\database first in projects that requires modification in production. Full control over the code. Manual changes to database will be most probably lost because your code defines the database. 
 
-#Lazy loading?  
+# Lazy loading?  
 
 Lazy loading is delaying the loading of related data, until you specifically request for it. It is the opposite of eager loading     
 
@@ -78,9 +78,9 @@ Lazy loading is delaying the loading of related data, until you specifically req
 
  ConfigureServices is used to configure Dependency Injection   Configure is used to set up middlewares, routing rules, etc   
 
-   - stored procedure?     
+# stored procedure?     
 
- - Authentication  vs Authorization   : 
+# Authentication  vs Authorization   : 
 
 Authentication is the process of ascertaining that somebody really is who they claim to be.   Authorization refers to rules that determine who is allowed to do what. E.g.   Adam may be authorized to create and delete databases, while Usama is only authorised to read.   
 
@@ -114,7 +114,7 @@ The secret key method of encryption, which involves the use of a single key, i
 
 Middleware is the piece of software in the request pipeline. It is between request and response 
 
-- Do you have experience working with Cloud, Docker? Explain how to deploy products with them. 
+# Do you have experience working with Cloud, Docker? Explain how to deploy products with them. 
 
 # Advantages and disadvantages of RDBMS and No SQL 
 
