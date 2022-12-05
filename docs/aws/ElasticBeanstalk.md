@@ -1,1 +1,6 @@
-
+# Concept
+- Elastic Beanstalk is a developer centric view of deploying an application on AWS
+- It uses all the component't such as: EC2, ASG, ELB, RDS, ect...
+- Just the application code is the responsibility of the developer
+- You can create multiple env (dev, test, prod...)
+- Support multiple programing languages .net, golang, nodejs, etc...
