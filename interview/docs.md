@@ -1,5 +1,3 @@
-Activate Interactive Pte Ltd (“Activate”) is a leading IT solution and service provider headquartered in Singapore with a presence in Malaysia and Indonesia. Our clients are empowered with quality, cost-effective, and impactful end-to-end application development, like mobile and web applications, and cloud technology that remove technology roadblocks and increase their business efficiency.
-
 # compress data - introduce yourself in english for interview: Name, year of experience, experience, latest project, technology       
 
  
