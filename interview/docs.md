@@ -32,6 +32,10 @@ Entity Framework Core is a modern object-database mapper for .NET. It supports L
 
 # How u secure the API service?    => JWT (Authentication, Authorization) 
 
+# Kestrel 
+- Kestrel is a cross-platform web server included and enabled by default in ASP.NET Core project templates.
+- Kestrel supports: HTTPS, HTTP/2, Web socket
+
 # Thread : 
 
 Mention about Synchronous and Asynchronous 
