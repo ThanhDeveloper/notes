@@ -14,6 +14,8 @@ without losing messages or requiring other services to be available.
 - Handle msg (Example: insert the msg into an RDS DB or dynamo db,...)
 - Delete the msg using DeleteMsg API
 
+#Options: Fifo or standart
+
 #  Working fine with another AWS services like auto scalling group 
 
 ![image](https://user-images.githubusercontent.com/48196420/207762128-154d1f13-33db-497d-a99b-a65b14b0fd26.png)
